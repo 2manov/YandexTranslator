@@ -1,0 +1,2 @@
+# YandexTranslator
+iOS App
